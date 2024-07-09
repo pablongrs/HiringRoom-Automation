@@ -24,7 +24,7 @@ def config_browser():
    return driver
 
 driver = config_browser()
-driver.get("https://hiringroom.com/jobs/get_vacancy/667c797f0ee23e02e3e17d9a/candidates/new?source=talent&clickid=9c6018adc53&ucid=9c6018adc53#step2")
+driver.get("https://hiringroom.com/jobs/get_vacancy/667efcb9bb950c02f8c6ac71/candidates/new?source=talent&clickid=df329bc572b&ucid=df329bc572b#step2")
 
 wait = WebDriverWait(driver, 10)
 
